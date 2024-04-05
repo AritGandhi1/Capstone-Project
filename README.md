@@ -19,11 +19,11 @@ Efforts were made to include some novel features:
 ## Contribution
 
 The project was a joint effort with each member contributing equally:
-- Deep Kamal Jindal
-- Vineet Kumar
-- Arit Sharad Gandhi
-- Shashank M N
 - Adarsh Chandra
+- Shashank M N
+- Arit Sharad Gandhi
+- Vineet Kumar
+- Deep Kamal Jindal
 
 ## Conclusion
 
@@ -37,7 +37,8 @@ The project enhanced skills in programming, database management, and data struct
 
 ### Demo Video
 
-[Demo Video Link](https://drive.google.com/file/d/17yFA8VC9chpWav8kXXIYQR4B55sf4W9b/view?usp=sharing)
+[Demo Video Link](https://drive.google.com/file/d/14533PKEwGlwj0BFmL4XzXJGkJaCdJo5i/view?usp=drive_link )
+[Demo (Detailed) Video Link](https://drive.google.com/file/d/1_H-kUgfgq_0Z-DMyulPGBJ5iKC2Nd76i/view?usp=drive_link )
 
 Feel free to raise issues if you find errors or have doubts.
 
